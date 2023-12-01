@@ -112,6 +112,7 @@ footer p{
     width: 800px;
     height: 500px;
     margin: 0 auto;
+    perspective: 1000px;
 }
 .mainImg, .backImg{
   position: absolute;
